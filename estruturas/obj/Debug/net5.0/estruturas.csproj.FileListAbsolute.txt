@@ -1,0 +1,16 @@
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.exe
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.deps.json
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.runtimeconfig.json
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.runtimeconfig.dev.json
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.dll
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\ref\estruturas.dll
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\bin\Debug\net5.0\estruturas.pdb
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.csproj.AssemblyReference.cache
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.AssemblyInfoInputs.cache
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.AssemblyInfo.cs
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.dll
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\ref\estruturas.dll
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.pdb
+C:\Users\Guilherme Aragoni\Desktop\bootcamp\dotnet\estruturas\obj\Debug\net5.0\estruturas.genruntimeconfig.cache
