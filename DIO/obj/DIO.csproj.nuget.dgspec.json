@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\dio\\DIO.csproj": {}
+    "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\DIO\\DIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\dio\\DIO.csproj": {
+    "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\DIO\\DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\dio\\DIO.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\DIO\\DIO.csproj",
         "projectName": "DIO",
-        "projectPath": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\dio\\DIO.csproj",
+        "projectPath": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\DIO\\DIO.csproj",
         "packagesPath": "C:\\Users\\Guilherme Aragoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\dio\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme Aragoni\\Desktop\\bootcamp\\dotnet\\DIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme Aragoni\\AppData\\Roaming\\NuGet\\NuGet.Config"
