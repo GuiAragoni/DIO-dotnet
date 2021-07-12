@@ -1,8 +1,8 @@
 using System;
 
 namespace estruturas{
-    public class Pilha    {
-        Posicao x1;
+    public class Pilha{
+        Posicao x1; 
         public void empilha(object item){
             x1 = new Posicao(x1, item);
         }
